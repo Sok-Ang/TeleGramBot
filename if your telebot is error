@@ -1,0 +1,3 @@
+pip install or uninstall pyTelegramBotAPI
+
+pip install pyTelegramBotAPI --upgrade

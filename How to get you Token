@@ -1,0 +1,11 @@
+Step one:
+    Go to telegram and search BotFather
+Step two:
+    Enter /start
+    botfather will show bunch of command
+Step three:
+    Enter /newbot
+    Enter name you like..
+    And then it show you the bot-token and copy it paste in Constants.
+
+You can do more research if you want.
